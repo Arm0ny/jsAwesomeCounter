@@ -231,7 +231,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - armando.pagano2001@gmail.com
 
-Project Link: [https://github.com/Arm0ny/Books](https://github.com/Arm0ny/Books)
+Project Link: [https://github.com/Arm0ny/jsAwesomeCounter](https://github.com/Arm0ny/jsAwesomeCounter)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </section>
