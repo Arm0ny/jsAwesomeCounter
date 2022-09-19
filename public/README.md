@@ -12,7 +12,7 @@
 <br />
 <div align="center" id="readme-top">
   <a href="https://github.com/Arm0ny/jsAwesomeCounter">
-    <img src="./public/img/banner.png" alt="Logo" width="500" height="250">
+    <img src="img/banner.png" alt="Logo" width="500" height="250">
   </a>
 
 <h3 align="center">Awesome Counter</h3>
@@ -116,7 +116,7 @@ this is a vanilla javascript project, so you won't need anything else then a bro
 if you want to use the counter as it is simply set an increment on the input labeled "increment By" or leave it
 as is, and start pressing the "+" and "-" buttons to modify the value of the counter<br/>
 
-<img src='public/img/product_about_screenshot.png'  alt="example: input 'fantasy'"/>
+<img src='img/product_about_screenshot.png'  alt="example: input 'fantasy'"/>
 <br/>
 <br/>
 
@@ -143,7 +143,7 @@ you can create buttons with the **createButton(parent, buttonText, action)** fun
 in the example below WE've created a new button, attached it to the "controls", gave it a text of "MUL" an action of "multiply"
 
 <br>
-<img src="public/img/usage/step_1.png">
+<img src="img/usage/step_1.png">
 
 </li>
 <br/>
@@ -169,7 +169,7 @@ to match the **innerHTML** setter value
 
 <br/>
 
-<img src='public/img/usage/step_2.png' alt='result'/>
+<img src='img/usage/step_2.png' alt='result'/>
 </li>
 
 </ul>
@@ -181,7 +181,7 @@ Et voilà we've successfully added our MUL button, we can now multiply the count
 <br>
 <br>
 
-<img src="public/img/usage/conclusion.png" alt="description"/>
+<img src="img/usage/conclusion.png" alt="description"/>
 
 <br/>
 
@@ -248,7 +248,7 @@ Project Link: [https://github.com/Arm0ny/jsAwesomeCounter](https://github.com/Ar
 [license-url]: https://github.com/Arm0ny/Books/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/armando-pagano-67787916a
-[product-screenshot]: public/img/product_about_screenshot.png
+[product-screenshot]: img/product_about_screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
