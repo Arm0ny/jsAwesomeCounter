@@ -36,21 +36,24 @@ h1{
 
 #counter{
     font-size: 8rem;
-    width: 20rem;
+    min-width: 20rem;
+    max-width: 90vw;
     padding: 5rem;
     height: 20rem;
     background: #ededed;
     text-align: center;
     border-radius: 2rem;
     box-shadow: -5px -5px 15px #FEFEFE, 5px 5px 15px #DCDCDC, inset 5px 5px 10px #FEFEFE, inset -5px -5px 10px #DCDCDC;
+    overflow-x: scroll
 }
 
 #controls{
     width: 50%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    gap: 2rem
 }
 
 

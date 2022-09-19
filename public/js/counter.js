@@ -23,9 +23,9 @@ function updateCounter(counter, action, value){
 document.body.onload = () => {
     let counter = createCounter(counterMain, 0)
     createButton(controls, '-', 'sub')
+    createButton(controls, '+', 'add')
     createButton(controls, 'RESET', 'reset')
     let incrementBy = createInput(controls, 'number', 'increment By')
-    createButton(controls, '+', 'add')
 
     //Add your buttons Below this line
 
