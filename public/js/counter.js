@@ -32,7 +32,7 @@ document.body.onload = () => {
     //Add your buttons Above this line
 
     let buttons = [...controls.children]
-    buttons.forEach((button, i) => {
+    buttons.forEach(button => {
         button.onclick = () => {
             updateCounter(counter, button.id, incrementBy.value)
         }
