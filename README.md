@@ -20,6 +20,7 @@
   <p align="center">
     a simple but designer counter you can use to make your counts look beautiful
     <br/>
+    <a href="https://jsawesomecounter.web.app">Try It Out/a>
     <a href="https://github.com/Arm0ny/jsAwesomeCounter/issues">Report Bug</a>
     <a href="https://github.com/Arm0ny/jsAwesomeCounter/issues">Request Feature</a>
   </p>
