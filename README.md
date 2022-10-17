@@ -243,7 +243,7 @@ Project Link: [https://github.com/Arm0ny/jsAwesomeCounter](https://github.com/Ar
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [stars-shield]: https://img.shields.io/github/stars/Arm0ny/jsAwesomeCounter.svg?style=for-the-badge
-[stars-url]: https://github.com/Arm0ny/Books/stargazers
+[stars-url]: https://github.com/Arm0ny/jsAwesomeCounter/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Arm0ny/jsAwesomeCounter.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/Arm0ny/jsAwesomeCounter.svg?style=for-the-badge
